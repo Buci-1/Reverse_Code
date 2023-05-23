@@ -24,6 +24,7 @@
     <ProjectGuid>{d483c899-6477-4cdc-9811-74540f8403c8}</ProjectGuid>
     <RootNamespace>Ctest</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>C语言基础</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
