@@ -1,0 +1,21 @@
+﻿  C语言基础.cpp
+C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\C语言基础.cpp(4,16): error C2485: “naked”: 无法识别的扩展特性
+C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\C语言基础.cpp(5,5): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\C语言基础.cpp(6,9): error C2065: “push”: 未声明的标识符
+C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\C语言基础.cpp(6,14): error C2146: 语法错误: 缺少“;”(在标识符“ebp”的前面)
+C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\C语言基础.cpp(6,14): error C2065: “ebp”: 未声明的标识符
+C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\C语言基础.cpp(7,9): error C2146: 语法错误: 缺少“;”(在标识符“mov”的前面)
+C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\C语言基础.cpp(7,9): error C2065: “mov”: 未声明的标识符
+C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\C语言基础.cpp(7,13): error C2146: 语法错误: 缺少“;”(在标识符“ebp”的前面)
+C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\C语言基础.cpp(7,13): error C2065: “ebp”: 未声明的标识符
+C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\C语言基础.cpp(7,17): error C2065: “esp”: 未声明的标识符
+C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\C语言基础.cpp(8,9): error C2146: 语法错误: 缺少“;”(在标识符“sub”的前面)
+C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\C语言基础.cpp(8,9): error C2065: “sub”: 未声明的标识符
+C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\C语言基础.cpp(8,13): error C2146: 语法错误: 缺少“;”(在标识符“esp”的前面)
+C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\C语言基础.cpp(8,13): error C2065: “esp”: 未声明的标识符
+C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\C语言基础.cpp(9,9): error C2146: 语法错误: 缺少“;”(在标识符“mov”的前面)
+C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\C语言基础.cpp(9,9): error C2065: “mov”: 未声明的标识符
+C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\C语言基础.cpp(9,13): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\C语言基础.cpp(9,13): error C2065: “eax”: 未声明的标识符
+C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\C语言基础.cpp(9,17): error C2065: “cccccccc”: 未声明的标识符
+C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\C语言基础.cpp(13,5): error C2143: 语法错误: 缺少“;”(在“}”的前面)
