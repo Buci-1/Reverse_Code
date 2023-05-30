@@ -44,7 +44,7 @@ int Re_three(int x, int y, int z) {
 	}
 	else {
 		if(y>=z){
-			a = c++;
+			a = c+1;
 		}
 		else {
 			if (x>z) {
@@ -57,8 +57,9 @@ int Re_three(int x, int y, int z) {
 	}
 	return a+1;
 }
-
+/*
 int main() {
 	Re_three(4, 5, 6);
 	return 0;
 }
+*/

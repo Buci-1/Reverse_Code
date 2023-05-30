@@ -27,5 +27,14 @@
     <ClCompile Include="IfRe_2015-01-28.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="HelloWord.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HelloWord2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="练习2015-01-29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
