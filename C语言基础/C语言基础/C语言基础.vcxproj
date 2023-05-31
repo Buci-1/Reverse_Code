@@ -129,12 +129,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CallingConventionRe.cpp" />
+    <ClCompile Include="C语言参数_返回值_局部变量2015-02-02.cpp" />
     <ClCompile Include="C语言基础.cpp" />
     <ClCompile Include="HelloWord.c" />
     <ClCompile Include="HelloWord2.c" />
     <ClCompile Include="IfRe_2015-01-28.cpp" />
     <ClCompile Include="IF分支_2015-01-27.cpp" />
     <ClCompile Include="练习2015-01-29.cpp" />
+    <ClCompile Include="练习_多维数组2015-02-03.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

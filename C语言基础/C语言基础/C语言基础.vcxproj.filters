@@ -36,5 +36,11 @@
     <ClCompile Include="练习2015-01-29.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="C语言参数_返回值_局部变量2015-02-02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="练习_多维数组2015-02-03.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
