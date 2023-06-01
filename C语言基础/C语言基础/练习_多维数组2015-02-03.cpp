@@ -87,8 +87,9 @@ void merge_sort() {
         printf("%d\n", size[n]);
     }
 }
-
+/*
 int main() {
     merge_sort();
 }
+*/
 

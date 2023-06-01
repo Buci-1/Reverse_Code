@@ -42,5 +42,8 @@
     <ClCompile Include="练习_多维数组2015-02-03.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="结构体2015-02-04.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
