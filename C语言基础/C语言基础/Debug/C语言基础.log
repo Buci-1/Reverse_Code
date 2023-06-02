@@ -1,2 +1,6 @@
-﻿  字节对齐_结构体数组2015-02-05.cpp
+﻿  指针1_2015-02-26.cpp
+C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\指针1_2015-02-26.cpp(20,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“Student ***”
+C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\指针1_2015-02-26.cpp(23,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“Student ***”
+C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\指针1_2015-02-26.cpp(26,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“Student ***”
+C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\指针1_2015-02-26.cpp(65,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“float ***”
   C语言基础.vcxproj -> C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\Debug\C语言基础.exe
