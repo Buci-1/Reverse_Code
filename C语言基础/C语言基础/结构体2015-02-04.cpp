@@ -37,14 +37,15 @@ void setGame() {
 
 //3、定义一个函数，用来显示这个结构体变量的所有成员信息.
 void disp() {
-    printf("%d %d %d %d %d %d", x.level, x.exp, x.hp, x.mp, x.xy.x, x.xy.y);
+    printf("%d %d %d %d %d %d",x.level, x.exp, x.hp, x.mp, x.xy.x, x.xy.y);
 }
 
-
+/*
 int main() {
     setGame();
     disp();
 }
+*/
 
 
 
