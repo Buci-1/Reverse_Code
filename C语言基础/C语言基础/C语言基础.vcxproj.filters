@@ -54,5 +54,14 @@
     <ClCompile Include="指针1_2015-02-26.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="指针2_2015-02-27.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="指针3_2015-02-28.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="指针5_2015-03-02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

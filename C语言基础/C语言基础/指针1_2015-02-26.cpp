@@ -65,8 +65,12 @@ void Stu55() {
 	printf("%d", x);
 
 }
+
+
 /*
 int main() {
-	Stu55();
+	//
 }
 */
+
+

@@ -138,6 +138,9 @@
     <ClCompile Include="Switch2015-02-06.cpp" />
     <ClCompile Include="字节对齐_结构体数组2015-02-05.cpp" />
     <ClCompile Include="指针1_2015-02-26.cpp" />
+    <ClCompile Include="指针2_2015-02-27.cpp" />
+    <ClCompile Include="指针3_2015-02-28.cpp" />
+    <ClCompile Include="指针5_2015-03-02.cpp" />
     <ClCompile Include="练习2015-01-29.cpp" />
     <ClCompile Include="练习_多维数组2015-02-03.cpp" />
     <ClCompile Include="结构体2015-02-04.cpp" />
