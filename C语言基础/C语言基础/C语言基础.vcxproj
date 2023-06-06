@@ -141,6 +141,8 @@
     <ClCompile Include="指针2_2015-02-27.cpp" />
     <ClCompile Include="指针3_2015-02-28.cpp" />
     <ClCompile Include="指针5_2015-03-02.cpp" />
+    <ClCompile Include="指针6_2015-03-03.c" />
+    <ClCompile Include="指针8_2015-03-06.c" />
     <ClCompile Include="练习2015-01-29.cpp" />
     <ClCompile Include="练习_多维数组2015-02-03.cpp" />
     <ClCompile Include="结构体2015-02-04.cpp" />

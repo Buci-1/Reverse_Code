@@ -54,8 +54,8 @@ int strcmp(char* s1, char* s2) {
 //**********************************************************
 
 //test 
-char arr1[] = "china";
-char arr2[] = "niubi";
+//char arr1[] = "china";
+//char arr2[] = "niubi";
 //test
 
 //模拟实现CE的数据搜索功能：						
@@ -88,14 +88,17 @@ void FindRoleNameAddr(char* pData, char* pRoleName) {    //wow *pRoleName = 'w',
 			j = 0;
 			while (j <= len) {
 				if ((*pData_a) == 0 && (*pRoleName_a) == 0) {
-					printf("%08X %c", pData - 1,(*(pData-1)));
+					printf("%08X %s\n", pData - 1, pData - 1);
 					//pData--;
+					/*
 					for (int k = 0; k < len;k++) {
 						printf("%c",(*(pData+k)));
 					}
 
 					printf("\n");
+				*/
 				}
+				
 				//printf("\n");
 				(*pData_a++);
 				(*pRoleName_a++);
@@ -106,8 +109,9 @@ void FindRoleNameAddr(char* pData, char* pRoleName) {    //wow *pRoleName = 'w',
 }
 
 
-char arr3[] = "WOW";
-
+//char arr3[] = "WOW";
+/*
 int main() {
 	FindRoleNameAddr(wow,arr3);
 }
+*/
