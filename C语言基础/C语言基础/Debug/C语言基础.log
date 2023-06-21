@@ -1,3 +1,7 @@
-﻿  指针8_2015-03-06.c
-C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\指针8_2015-03-06.c(65,9): warning C4477: “printf”: 格式字符串“%X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“char *”
-  C语言基础.vcxproj -> C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\Debug\C语言基础.exe
+﻿  位运算2015-03-09.cpp
+  内存分配2015-03-10.cpp
+D:\Github\Reverse_Code\C语言基础\C语言基础\内存分配2015-03-10.cpp(8,13): warning C4129: “D”: 不可识别的字符转义序列
+D:\Github\Reverse_Code\C语言基础\C语言基础\内存分配2015-03-10.cpp(20,14): warning C4474: printf: 格式字符串中传递的参数太多
+D:\Github\Reverse_Code\C语言基础\C语言基础\内存分配2015-03-10.cpp(20,14): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  正在生成代码...
+  C语言基础.vcxproj -> D:\Github\Reverse_Code\C语言基础\Debug\C语言基础.exe

@@ -136,6 +136,8 @@
     <ClCompile Include="IfRe_2015-01-28.cpp" />
     <ClCompile Include="IF分支_2015-01-27.cpp" />
     <ClCompile Include="Switch2015-02-06.cpp" />
+    <ClCompile Include="位运算2015-03-09.cpp" />
+    <ClCompile Include="内存分配2015-03-10.cpp" />
     <ClCompile Include="字节对齐_结构体数组2015-02-05.cpp" />
     <ClCompile Include="指针1_2015-02-26.cpp" />
     <ClCompile Include="指针2_2015-02-27.cpp" />

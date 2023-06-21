@@ -6,46 +6,30 @@
   Switch2015-02-06.cpp
   字节对齐_结构体数组2015-02-05.cpp
   指针1_2015-02-26.cpp
-C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\指针1_2015-02-26.cpp(20,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“Student ***”
-C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\指针1_2015-02-26.cpp(20,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "Student ***" 的参数 1 冲突
-C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\指针1_2015-02-26.cpp(23,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“Student ***”
-C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\指针1_2015-02-26.cpp(23,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "Student ***" 的参数 1 冲突
-C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\指针1_2015-02-26.cpp(26,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“Student ***”
-C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\指针1_2015-02-26.cpp(26,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "Student ***" 的参数 1 冲突
-C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\指针1_2015-02-26.cpp(39,9): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
-C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\指针1_2015-02-26.cpp(58,9): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
-C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\指针1_2015-02-26.cpp(65,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“float ***”
-C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\指针1_2015-02-26.cpp(65,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "float ***" 的参数 1 冲突
+D:\Github\Reverse_Code\C语言基础\C语言基础\指针1_2015-02-26.cpp(20,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“Student ***”
+D:\Github\Reverse_Code\C语言基础\C语言基础\指针1_2015-02-26.cpp(20,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "Student ***" 的参数 1 冲突
+D:\Github\Reverse_Code\C语言基础\C语言基础\指针1_2015-02-26.cpp(23,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“Student ***”
+D:\Github\Reverse_Code\C语言基础\C语言基础\指针1_2015-02-26.cpp(23,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "Student ***" 的参数 1 冲突
+D:\Github\Reverse_Code\C语言基础\C语言基础\指针1_2015-02-26.cpp(26,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“Student ***”
+D:\Github\Reverse_Code\C语言基础\C语言基础\指针1_2015-02-26.cpp(26,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "Student ***" 的参数 1 冲突
+D:\Github\Reverse_Code\C语言基础\C语言基础\指针1_2015-02-26.cpp(39,9): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\Github\Reverse_Code\C语言基础\C语言基础\指针1_2015-02-26.cpp(58,9): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\Github\Reverse_Code\C语言基础\C语言基础\指针1_2015-02-26.cpp(65,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“float ***”
+D:\Github\Reverse_Code\C语言基础\C语言基础\指针1_2015-02-26.cpp(65,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "float ***" 的参数 1 冲突
   指针2_2015-02-27.cpp
   指针3_2015-02-28.cpp
-C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\指针3_2015-02-28.cpp(25,52): warning C4838: 从“int”转换到“char”需要收缩转换
-C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\指针3_2015-02-28.cpp(25,52): warning C4309: “初始化”: 截断常量值
-C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\指针3_2015-02-28.cpp(40,11): warning C4477: “printf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
-C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\指针3_2015-02-28.cpp(40,11): warning C4313: "printf": 格式字符串中的 "%X" 与类型为 "int *" 的参数 1 冲突
+D:\Github\Reverse_Code\C语言基础\C语言基础\指针3_2015-02-28.cpp(25,52): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\Github\Reverse_Code\C语言基础\C语言基础\指针3_2015-02-28.cpp(25,52): warning C4309: “初始化”: 截断常量值
+D:\Github\Reverse_Code\C语言基础\C语言基础\指针3_2015-02-28.cpp(40,11): warning C4477: “printf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+D:\Github\Reverse_Code\C语言基础\C语言基础\指针3_2015-02-28.cpp(40,11): warning C4313: "printf": 格式字符串中的 "%X" 与类型为 "int *" 的参数 1 冲突
   指针5_2015-03-02.cpp
-C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\指针5_2015-03-02.cpp(68,43): warning C4838: 从“int”转换到“char”需要收缩转换
-C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\指针5_2015-03-02.cpp(68,43): warning C4309: “初始化”: 截断常量值
-C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\指针5_2015-03-02.cpp(91,13): warning C4477: “printf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“char *”
-C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\指针5_2015-03-02.cpp(91,13): warning C4313: "printf": 格式字符串中的 "%X" 与类型为 "char *" 的参数 1 冲突
+D:\Github\Reverse_Code\C语言基础\C语言基础\指针5_2015-03-02.cpp(68,43): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\Github\Reverse_Code\C语言基础\C语言基础\指针5_2015-03-02.cpp(68,43): warning C4309: “初始化”: 截断常量值
+D:\Github\Reverse_Code\C语言基础\C语言基础\指针5_2015-03-02.cpp(91,13): warning C4477: “printf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“char *”
+D:\Github\Reverse_Code\C语言基础\C语言基础\指针5_2015-03-02.cpp(91,13): warning C4313: "printf": 格式字符串中的 "%X" 与类型为 "char *" 的参数 1 冲突
   练习2015-01-29.cpp
-C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\练习2015-01-29.cpp(86,13): warning C4101: “temp”: 未引用的局部变量
+D:\Github\Reverse_Code\C语言基础\C语言基础\练习2015-01-29.cpp(86,13): warning C4101: “temp”: 未引用的局部变量
   练习_多维数组2015-02-03.cpp
   结构体2015-02-04.cpp
+D:\Github\Reverse_Code\C语言基础\C语言基础\结构体2015-02-04.cpp(29,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   正在生成代码...
-  HelloWord.c
-C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\HelloWord.c(1,1): warning C4828: 文件包含在偏移 0x1bf 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
-C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\HelloWord.c(12,28): warning C4311: “类型强制转换”: 从“void (__cdecl *)()”到“int”的指针截断
-  HelloWord2.c
-C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\HelloWord2.c(1,1): warning C4828: 文件包含在偏移 0x20f 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
-  指针6_2015-03-03.c
-  指针8_2015-03-06.c
-C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\指针8_2015-03-06.c(82,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
-C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\指针8_2015-03-06.c(82,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "char *" 的参数 1 冲突
-C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\指针8_2015-03-06.c(84,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
-C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\指针8_2015-03-06.c(84,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "char *" 的参数 1 冲突
-C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\指针8_2015-03-06.c(86,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“char **”
-C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\指针8_2015-03-06.c(86,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "char **" 的参数 1 冲突
-C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\指针8_2015-03-06.c(88,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“char **”
-C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\指针8_2015-03-06.c(88,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "char **" 的参数 1 冲突
-  正在生成代码...
-C:\Users\13907\Documents\GitHub\Reverse_Code\C语言基础\C语言基础\HelloWord.c(12): error C4789: 缓冲区“arr”(大小为 20 字节)将溢出；4 字节将在偏移 24 时开始写入
